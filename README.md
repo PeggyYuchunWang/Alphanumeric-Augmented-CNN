@@ -8,4 +8,4 @@ Given bayes error, doing well at around 85% test accuracy after a few epochs
 
 Tests on an image of your choice at the end...must be in the correct format (28x28, grayscale, white marking on black background). Code for formatting characters is in another repo.
 
-Weights included for convenience
+Must add EMNIST dataset in /data, train for weights (comment in model training code)
